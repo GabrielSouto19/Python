@@ -3,16 +3,23 @@
 Este é um simples projeto de uma tela de cadastro desenvolvida utilizando a biblioteca Tkinter do Python. A aplicação permite que o usuário insira informações básicas para criar um novo cadastro.
 A princípio feito somente com os conhecimentos basicos de python,
 
+-**Prévias futuras** Integração com uma API , estilização da interface , Tratamento de excessões e validação de email e cpf, adicionar telas separadas de login e outra de cadastro
+
 ## Funcionalidades
 
 - **Cadastro de Usuário:** Permite que o usuário insira seu nome, e-mail, cpf,numero de telefone.
 - **Validação de Dados:** Verifica se os campos obrigatórios foram preenchidos e se a senha e a confirmação de senha coincidem.
 - **Feedback Visual:** Fornece feedback visual ao usuário sobre o sucesso ou falha do cadastro.
+-**Armazenamento dos dados em banco de dados**
+
+## Atualizações 
+implementação do banco de dados sqlite3
 
 ## Pré-requisitos
 
 - Python 3.12 instalado.
 - Biblioteca Tkinter (já incluída na maioria das instalações Python).
+- Intalar Biblioteca sqlite3
 
 ## Como usar
 
